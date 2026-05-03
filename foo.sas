@@ -5,6 +5,3 @@ run;
 proc print data=work.class;
 	var name;
 run;
-
-title;
-title2;
